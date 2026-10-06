@@ -31,7 +31,7 @@ Me dedico a transformar ideas en soluciones digitales funcionales. Como **freela
 
 💡 **¿Tienes alguna idea en mente o necesitas optimizar tus sistemas?** ¡Conectemos y hagámoslo realidad!
 
-#### 💻 profile.js
+#### 🛠️ Perfil Técnico y Herramientas
 ```javascript
 const cristian = {
   pronouns: ["Él"],
