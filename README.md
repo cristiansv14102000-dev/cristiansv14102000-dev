@@ -14,7 +14,7 @@ Me especializo en **desarrollo de software, diseño y desarrollo web**, creando 
 
 Como **freelancer**, colaboro con negocios, emprendedores y profesionales para transformar sus ideas en productos digitales, desde el concepto y diseño hasta el desarrollo y puesta en marcha.
 
-### 🚀 Sobre mí
+###  Sobre mí
 
 * 👨‍💻 **Licenciado en Ciencias Computacionales**
 * 🎓 **Técnico en Programación**
@@ -25,9 +25,6 @@ Como **freelancer**, colaboro con negocios, emprendedores y profesionales para t
 * 💼 Desarrollo de proyectos como **freelancer**
 * 📚 En constante aprendizaje y exploración de nuevas tecnologías
 
-### 🧩 Lo que me interesa
-
-Me gusta crear proyectos que combinen **tecnología, funcionalidad y diseño**, buscando que cada solución no solo se vea bien, sino que realmente aporte valor al usuario o negocio.
 
 > **Transformo ideas en soluciones digitales.**
 
