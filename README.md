@@ -45,3 +45,18 @@ const cristian = {
   }
 };
 ```
+---
+
+### 🛡️ Proyecto & Emprendimiento Destacado
+
+<p align="center">
+  <a href="https://github.com/cristiansv14102000-dev/invictus-servicios-ti">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristiansv14102000-dev&repo=invictus-servicios-ti&theme=dark&bg_color=0D1117&title_color=FF2E55&text_color=FFFFFF&icon_color=22C55E" alt="Invictus Servicios TI" />
+  </a>
+</p>
+
+<p align="center">
+  👉 <strong><a href="https://github.com/cristiansv14102000-dev/invictus-servicios-ti">Conoce el catálogo de servicios y soporte TI de Invictus</a></strong>
+</p>
+
+---
